@@ -16,9 +16,9 @@ Estas son las tecnologías que manejo:
 
 ## 📊 GitHub Stats
 
-![Tu Nombre GitHub stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical)
+![Tu Nombre GitHub stats](https://github-readme-stats.vercel.app/api?username=spuchetti&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spuchetti&layout=compact&theme=radical)
 
 ---
 

@@ -1,4 +1,4 @@
-# ¡Hola! 👋  
+# ¡Hola, soy Sebastián! 👋  
 
 Soy desarrollador en formación y me apasiona la programación y el desarrollo web.  
 Estas son las tecnologías que manejo:

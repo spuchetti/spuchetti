@@ -1,7 +1,7 @@
 <h1 align="center">Sebastián Puchetti</h1>
 <p align="center">
   Desarrollador de software · Argentina<br>
-  <a href="https://www.linkedin.com/in/sebastianpuchetti">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/spuchetti">LinkedIn</a>
 </p>
 
 Estudio en la Universidad Nacional de Entre Ríos. Desarrollo aplicaciones web, APIs y mobile, desde el modelo de datos hasta el despliegue.
